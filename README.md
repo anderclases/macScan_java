@@ -80,6 +80,8 @@ public class DatabaseConnection {
 }
 ```
 
+Cuando ejecutes el programa en la carpeta de tu usaurio va a crear la base de datos: networkmanager.db.
+
 ---
 
 ## ⚙️ Control de Versiones (Git)
