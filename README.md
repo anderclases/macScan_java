@@ -80,10 +80,15 @@ public class DatabaseConnection {
 }
 ```
 
-Cuando ejecutes el programa en la carpeta de tu usaurio va a crear la base de datos: networkmanager.db.
-
 ---
 
 ## ⚙️ Control de Versiones (Git)
 
 Ten en cuenta que el archivo de base de datos local (`macScan/dispositivos.db`) y los archivos compilados están ignorados en el control de versiones (`.gitignore`) para evitar subir datos de prueba o temporales al repositorio.
+
+---
+
+## Ubicación Base de datos
+
+Cuando ejecutes el programa en la carpeta de tu usaurio va a crear la base de datos: networkmanager.db.
+
